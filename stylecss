@@ -3,5 +3,5 @@ span {
 }
 
 .bold-text {
-    font-weight: bold;
+    font-weight: normal;
 }
